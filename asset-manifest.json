@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EarthTag/static/css/main.41c2a29e.css",
+    "main.js": "/EarthTag/static/js/main.8498a631.js",
+    "static/js/787.e921d5b8.chunk.js": "/EarthTag/static/js/787.e921d5b8.chunk.js",
+    "static/media/Tree.png": "/EarthTag/static/media/Tree.46b02d7e758fc4246545.png",
+    "index.html": "/EarthTag/index.html",
+    "main.41c2a29e.css.map": "/EarthTag/static/css/main.41c2a29e.css.map",
+    "main.8498a631.js.map": "/EarthTag/static/js/main.8498a631.js.map",
+    "787.e921d5b8.chunk.js.map": "/EarthTag/static/js/787.e921d5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c2a29e.css",
+    "static/js/main.8498a631.js"
+  ]
+}
