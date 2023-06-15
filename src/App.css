@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #e3e2e3;
+}
+
+/* Button CSS */
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  background: #3cff4c;
+  padding: 10px 80px 10px 80px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cff4c;
+  text-decoration: none;
+}
